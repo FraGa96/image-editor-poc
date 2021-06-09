@@ -1,0 +1,22 @@
+.Image-cropper-container {
+  width: 640px;
+  height: 480px;
+  float: left;
+}
+
+.Image-cropper-preview {
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin-left: 10px;
+}
+
+.cropper-view-box {
+  outline: none;
+  outline-color: transparent;
+  border-radius: 50%;
+}
+
+.cropper-face {
+  background-color: #B0BBBF;
+}

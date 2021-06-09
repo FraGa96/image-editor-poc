@@ -1,0 +1,32 @@
+.Image-easy-crop-container {
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 458px;
+  height: 500px;
+}
+
+.Image-easy-crop-demo-container {
+  position: relative;
+  width: 80%;
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+}
+
+.Image-easy-crop-preview {
+  /* border-radius: 50%; */
+  width: 200px;
+}
+
+.Image-easy-crop-options {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.reactEasyCrop_CropArea{
+  color: rgba(254, 254, 254, 0.5) !important;
+}
